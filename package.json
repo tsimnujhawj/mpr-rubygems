@@ -8,12 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tsimnujhawj/mpr-rubygems.git"
+    "url": "git://github.com/tsimnujhawj/mpr-rubygems.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tsimnujhawj/mpr-rubygems/issues"
+  },
+  "publishConfig": {
+   "@tsimnujhawj:registry": "https://npm.pkg.github.com"
   },
   "homepage": "https://github.com/tsimnujhawj/mpr-rubygems#readme"
 }
